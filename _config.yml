@@ -1,3 +1,4 @@
   name: Joshua Koh
   markdown: kramdown
   theme: cayman
+theme: jekyll-theme-cayman
