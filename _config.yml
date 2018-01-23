@@ -4,7 +4,7 @@ email:       joshua@kohfamily.com
 author:      Joshua Koh
 description: "Josh's Website description"
 baseurl:     ""
-url:         "http://blog.joshuakoh.com"
+url:         "http://blog.joshuakoh.me"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
