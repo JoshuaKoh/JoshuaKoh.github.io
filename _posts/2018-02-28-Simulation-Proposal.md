@@ -7,6 +7,11 @@ summary:    Let's build a Lean simulation as a team!
 
 *This page will remain updated as details change.*
 
+## Current Team
+
+- Joshua Koh, undergrad, non-DL, [email](joshuakoh@gatech.edu)
+- Victor Law, undergrad, non-DL, [email](vlaw3@gatech.edu)
+
 ## Project Idea
 
 I'd like to work on a simulation focused on [Lean thinking](https://www.lean.org/WhatsLean/)! I'd like to build a simulation of a **manufacturing plant floor**. I want to apply various techniques of Lean thinking to a plant line and observe how those changes affect production throughput. We could simulate a stream of widgets moving through the floor while...
