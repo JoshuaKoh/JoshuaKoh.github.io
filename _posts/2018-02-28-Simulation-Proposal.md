@@ -9,7 +9,12 @@ summary:    Let's build a Lean simulation as a team!
 
 ## Project Idea
 
-I'd like to work on a simulation focused on [Lean thinking](https://www.lean.org/WhatsLean/)! I'd like to build a simulation of a **manufacturing plant floor**. I want to apply various techniques of Lean thinking to a plant line and observe how those changes affect production throughput. We could simulate controlling or limiting WIP into the system; protecting or exposing a constraint; implementing takt time; and any number of other Lean ideas. 
+I'd like to work on a simulation focused on [Lean thinking](https://www.lean.org/WhatsLean/)! I'd like to build a simulation of a **manufacturing plant floor**. I want to apply various techniques of Lean thinking to a plant line and observe how those changes affect production throughput. We could simulate a stream of widgets moving through the floor while...
+
+- controlling or limiting WIP into the system
+- protecting or exposing a constraint
+- implementing or removing takt time
+- any number of other Lean ideas
 
 There is lots of literature on this subject (e.g. papers from the Winter Simulation conference) already out there for us to build on!
 
@@ -20,7 +25,7 @@ Programming languages (in approximate descending order of strength):
 - Python
 - Scala
 - Java
-– C
+- \C
 
 Logistic details:
 
