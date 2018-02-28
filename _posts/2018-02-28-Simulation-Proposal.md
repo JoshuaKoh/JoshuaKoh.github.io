@@ -25,7 +25,7 @@ Programming languages (in approximate descending order of strength):
 - Python
 - Scala
 - Java
-- \C
+- C
 
 Logistic details:
 
