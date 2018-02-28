@@ -1,8 +1,8 @@
 # Site settings
-title:       Josh's Website
+title:       Josh Koh
 email:       joshua@kohfamily.com
 author:      Joshua Koh
-description: "Josh's Website description"
+description: "Josh Koh"
 baseurl:     ""
 url:         "http://blog.joshuakoh.me"
 date_format: "%b %-d, %Y"
