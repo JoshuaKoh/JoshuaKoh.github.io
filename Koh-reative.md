@@ -5,7 +5,7 @@ permalink:  /Koh-reative/
 summary:    koh-reative, podcast, audio, project
 ---
 
-<a href="http://www.blog.joshuakoh.me/Koh-reative/archive">Go to the episode archive</a>
+<a href="http://www.blog.joshuakoh.me/Koh-reative/archive" class="button button-blue button-big">Go to the episode archive</a>
 
 ## About Koh-reative
 

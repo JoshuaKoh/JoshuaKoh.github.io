@@ -1,7 +1,7 @@
 ---
 layout:     page
 title:      Koh-reative Archive
-permalink:  /Koh-reative/archive
+permalink:  /koh-reative/archive
 summary:    koh-reative, podcast, audio, project
 ---
 
