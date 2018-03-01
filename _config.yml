@@ -8,6 +8,7 @@ url:         "http://blog.joshuakoh.me"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
+ - koh-reative.md
  - cc.md
  - contact.html
 

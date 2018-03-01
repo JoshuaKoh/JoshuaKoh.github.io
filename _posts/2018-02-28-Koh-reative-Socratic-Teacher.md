@@ -9,8 +9,6 @@ summary:    As the teacher, what it ought to be, and how to best use it.
 
 ## Description
 
-In this episode of [Koh-reative](http://blog.joshuakoh.me/2018/02/28/Koh-reative-summary), I talk about the Socratic Method from the perspective of the teacher. 
-
 I want to communicate what I think is the best way to employ the Socratic Method, highlight ways it *shouldn't* be used, and to outline what I think is the ideal Socratic question.
 
 ## Credits
