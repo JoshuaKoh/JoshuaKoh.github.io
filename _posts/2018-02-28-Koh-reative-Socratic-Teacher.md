@@ -51,4 +51,4 @@ First off, I think this is a great question. And not necessarily because of its 
 
 So, in review, use the Socratic Method to help others to think like you do about a problem. Do this by asking questions that force the student to commit to their answer. Don’t get waylaid by questions that aren’t centered on important truths. And use questions that cause the student to synthesize what they know. And hey, that’s not easy. Obviously. It requires work on your end as a teacher. We’d have a lot more good teachers in the world if it were so easy, but as it is, we have a lot of bad teachers who aren’t willing to put in the work or don’t know how. Now you know how. So be thinking about how you can ask good questions that really help people. Good luck.
 
-{% license http://creativecommons.org/licenses/by/4.0/ %}
+{% license https://creativecommons.org/licenses/by-nc-sa/3.0/us/ %}
