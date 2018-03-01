@@ -35,6 +35,6 @@ I have a number of contact channels available above, and you can always reach ou
 
 --- 
 
-I'll always post whatever notes I used to produce the recording here on the site, below the audio. All of my text content and recordings are protected by Creative Commons, and you can see my terms [here](www.blog.joshuakoh.me/creative-commons).
+I'll always post whatever notes I used to produce the recording here on the site, below the audio. All of my text content and recordings are protected by Creative Commons, and you can see my terms [here](http://blog.joshuakoh.me/creative-commons/).
 
 Thanks for listening!
