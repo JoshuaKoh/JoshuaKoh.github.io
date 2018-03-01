@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Koh-reative: The Socratic Method, the teacher
+title:      The Socratic Method, the teacher [Koh-reative]
 date:       2018-02-28 20:18:00
 summary:    As the teacher, what it ought to be, and how to best use it.
 ---
