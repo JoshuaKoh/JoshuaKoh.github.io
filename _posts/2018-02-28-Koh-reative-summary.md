@@ -13,7 +13,7 @@ Is this for entertainment or for education? That'll definitely depend on the top
 
 Some of these will be long in duration, and some might be really short. I'm shooting for about 10 minutes per recording, but that's just a loose guess. The pacing might be completely different from one recording to the next. They might come out one after another, and there might be some time between uploads. This is just my corner of creativity, and I appreciate you taking interest!
 
-I'll always post whatever notes I used to produce the recording here on the site, below the audio. All of my text content and recordings are protected by Creative Commons, and you can see my terms [here](www.blog.joshuakoh.me/cc).
+I'll always post whatever notes I used to produce the recording here on the site, below the audio. All of my text content and recordings are protected by Creative Commons, and you can see my terms [here](www.blog.joshuakoh.me/creative-commons).
 
 Thanks for listening!
 
