@@ -8,6 +8,7 @@ url:         "http://blog.joshuakoh.me"
 date_format: "%b %-d, %Y"
 header_pages:
  - about.md
+ - cc.md
  - contact.html
 
 # Google services
@@ -130,5 +131,3 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
-gems:
-  - jekyll-creativecommons
