@@ -22,3 +22,5 @@ Projects can not be be profit making, or paid work, or commercial.
 If you share your project, you should use this same license.
 
 Please reach out to Josh with any questions you may have, using the contact links above.
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/3.0/us/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/us/">Creative Commons Attribution-NonCommercial-ShareAlike 3.0 United States License</a>.
