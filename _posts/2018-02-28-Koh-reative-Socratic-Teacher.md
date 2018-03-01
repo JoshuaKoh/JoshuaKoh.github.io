@@ -5,7 +5,7 @@ date:       2018-02-28 20:18:00
 summary:    As the teacher, what it ought to be, and how to best use it.
 ---
 
-<a href="http://www.joshuakoh.me/koh-reative-audio/01%20Socratic%20Method,%20the%20teacher.mp3" class="button button-blue button-big">Download this episode.</a>
+<a href="http://www.joshuakoh.me/koh-reative-audio/01%20Socratic%20Method,%20the%20teacher.mp3" class="button button-blue button-big">Download this episode (10.7 MB)</a>
 
 ## About Koh-reative
 
