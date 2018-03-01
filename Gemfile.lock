@@ -1,3 +1,10 @@
+GIT
+  remote: git://github.com/pathawks/jekyll-creativecommons.git
+  revision: 337e791922507ef0b2dc743941ad8707955974f2
+  specs:
+    jekyll-creativecommons (0.0.1)
+      liquid (>= 2.5, < 5.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -233,6 +240,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  jekyll-creativecommons!
 
 BUNDLED WITH
    1.16.1

@@ -19,6 +19,14 @@ I'll always post whatever notes I used to produce the recording here on the site
 
 Thanks for listening!
 
+## Credits
+
+Music used in this recording:
+
+- "A Closing Statement" by [Dexter Britain](www.dexterbritain.com)
+- "Sunrise in F-Major" by [dep](www.dep.fm)
+
+
 ## Text Notes
 
 I want to discuss the effective teaching technique of the Socratic Method, because I find it to be often underused or misused. 
@@ -42,3 +50,5 @@ First off, I think this is a great question. And not necessarily because of its 
 3) The question causes the student to dig deeper. This is not a question that can be answered from mere intuition, like “Did Eli’s sons get what they deserve for their sin?” It’s not a question of exaggerated contrast, where the wrong option is bloated with hyperbole, like, “Is sin just a little, unimportant thing to God, or is it important?” Rather than all of that, this is a question that requires the student to draw on all of their resources and then some. They need to bring what they know and what they’ve experienced to the table and synthesize what they know to realize something new. The question is not one that’s so easy that it’s trivial. On the other hand, it’s not one that’s so hard that the student has no chance of knowing it. It doesn’t matter how many times I ask you, “How do you map a column of strings to upper case in a pandas dataframe with a lambda function?” If you aren’t familiar with data science, you won’t ever get the answer without looking up a lot of stuff. Questions that dig deeper are often not purely fact-based. The best questions involve what the student already knows and combining it with what they ought to know next. 
 
 So, in review, use the Socratic Method to help others to think like you do about a problem. Do this by asking questions that force the student to commit to their answer. Don’t get waylaid by questions that aren’t centered on important truths. And use questions that cause the student to synthesize what they know. And hey, that’s not easy. Obviously. It requires work on your end as a teacher. We’d have a lot more good teachers in the world if it were so easy, but as it is, we have a lot of bad teachers who aren’t willing to put in the work or don’t know how. Now you know how. So be thinking about how you can ask good questions that really help people. Good luck.
+
+{% license http://creativecommons.org/licenses/by/4.0/ %}
