@@ -7,17 +7,11 @@ summary:    As the teacher, what it ought to be, and how to best use it.
 
 <a href="http://www.joshuakoh.me/koh-reative-audio/01%20Socratic%20Method,%20the%20teacher.mp3" class="button button-blue button-big">Download this episode (10.7 MB)</a>
 
-## About Koh-reative
+## Description
 
-If you know me well enough, you know I have a lot of thoughts and an endless willingness to share them with people. With my background in podcasting, I thought I might take advantage of my set-up to host my own talking corner, for speaking about topics that matter to me. Yeah, it's basically a personal soapbox.
+In this episode of [Koh-reative](http://blog.joshuakoh.me/2018/02/28/Koh-reative-summary), I talk about the Socratic Method from the perspective of the teacher. 
 
-Is this for entertainment or for education? That'll definitely depend on the topic and your own personal interests. I don't have any hesitations to speak about just about anything, so you can expect a variety. 
-
-Some of these will be long in duration, and some might be really short. The pacing might be completely different from one recording to the next. They might come out one after another, and there might be some time between uploads. This is just my corner of creativity, and I appreciate you taking interest!
-
-I'll always post whatever notes I used to produce the recording here on the site, below the audio. 
-
-Thanks for listening!
+I want to communicate what I think is the best way to employ the Socratic Method, highlight ways it *shouldn't* be used, and to outline what I think is the ideal Socratic question.
 
 ## Credits
 
