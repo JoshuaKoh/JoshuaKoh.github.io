@@ -9,8 +9,7 @@ summary:    Let's build a Lean simulation as a team!
 
 ## Current Team
 
-- Joshua Koh, undergrad, non-DL, [email](joshuakoh@gatech.edu)
-- Victor Law, undergrad, non-DL, [email](vlaw3@gatech.edu)
+We've got a full team now! Will add new links if/when we post code or results of our simulation. Exciting!
 
 ## Project Idea
 
@@ -42,5 +41,4 @@ Logistic details:
     - Most of the day Fri, Sat, Sun
     - More times! Going into any more detail here would be a pain for you to read and me to write. 
 
-Please [reach out to me](mailto:joshuakoh@gatech.edu) if you're interested. I'd love to discuss more and am open to pivoting my initial idea according to your thoughts.
-
+Please [reach out to me](mailto:joshuakoh@gatech.edu) if you're interested in learning more about what we're working on. Our team is currently full and we're not looking for new members, sorry!
