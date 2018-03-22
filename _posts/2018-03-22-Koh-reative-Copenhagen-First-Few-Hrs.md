@@ -15,7 +15,7 @@ I'm particularly proud of how this one turned out from a production standpoint. 
 
 ## Credits
 
-Except for the first song, all music is from the [Bakemonogatari OST](https://www.amazon.com/BAKEMONOGATARI-ONGAKU-ZENSHU-SONGS-SOUNDTRACKS/dp/B005V3ARAY) by the genius [Satoru Kosaki](https://en.wikipedia.org/wiki/Satoru_K%C5%8Dsaki). Music used in this recording, in order of appearance:
+Except for the first song, all music is from the [Bakemonogatari OST](https://www.amazon.com/BAKEMONOGATARI-ONGAKU-ZENSHU-SONGS-SOUNDTRACKS/dp/B005V3ARAY) by MONACA and by the genius [Satoru Kosaki](https://en.wikipedia.org/wiki/Satoru_K%C5%8Dsaki). Music used in this recording, in order of appearance:
 
 - "Way Back (feat. Cozi Zuehlsdorff)" by Vicetone
 - "Sanpo"
