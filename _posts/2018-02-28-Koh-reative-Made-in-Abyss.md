@@ -5,7 +5,7 @@ date:       2018-03-02 18:34:00
 summary:    Why should you watch the Best Anime of 2017? Here are four reasons.
 ---
 
-<a href="http://www.joshuakoh.me/koh-reative-audio/02%20Made%20in%20Abyss.mp3" class="button button-blue button-big">Download this episode (8.5 MB)</a>
+<a href="http://www.joshuakoh.me/koh-reative-audio/02%20Made%20in%20Abyss.mp3" class="button button-blue button-big">Download this episode (9m13s)</a>
 
 ## Description
 

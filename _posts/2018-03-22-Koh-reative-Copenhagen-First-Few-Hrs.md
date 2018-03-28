@@ -5,7 +5,7 @@ date:       2018-03-22 07:55:00
 summary:    The epic retelling of my very first goofy adventures studying abroad in Copenhagen, Denmark.
 ---
 
-<a href="http://www.joshuakoh.me/koh-reative-audio/03%20Copenhagen%2C%20First%2024%20Hrs.mp3" class="button button-blue button-big">Download this episode (17.6 MB)</a>
+<a href="http://www.joshuakoh.me/koh-reative-audio/03%20Copenhagen%2C%20First%2024%20Hrs.mp3" class="button button-blue button-big">Download this episode (18m23s)</a>
 
 ## Description
 

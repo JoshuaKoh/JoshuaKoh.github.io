@@ -1,15 +1,17 @@
 ---
 layout:     post
-title:      The Socratic Method, the teacher [Koh-reative]
+title:      The Socratic Method for the teacher [Koh-reative]
 date:       2018-02-28 20:18:00
 summary:    As the teacher, what it ought to be, and how to best use it.
 ---
 
-<a href="http://www.joshuakoh.me/koh-reative-audio/01%20Socratic%20Method,%20the%20teacher.mp3" class="button button-blue button-big">Download this episode (10.7 MB)</a>
+<a href="http://www.joshuakoh.me/koh-reative-audio/01%20Socratic%20Method,%20the%20teacher.mp3" class="button button-blue button-big">Download this episode (11m06s)</a>
 
 ## Description
 
-I want to communicate what I think is the best way to employ the Socratic Method, highlight ways it *shouldn't* be used, and to outline what I think is the ideal Socratic question.
+At this point in my life, I have accrued a decent amount of experience teaching and tutoring. As I pick up on little tips and tricks that make teaching effective, I want to communicate them. 
+
+Today is on what I think is the best way to employ the Socratic Method. I'll also highlight ways it *shouldn't* be used, and I'll outline what an ideal Socratic question looks like.
 
 ## Credits
 
