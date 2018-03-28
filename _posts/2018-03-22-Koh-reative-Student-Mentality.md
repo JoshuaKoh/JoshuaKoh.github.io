@@ -15,7 +15,7 @@ When I was in high school, I had a youth pastor who loved to challenge us studen
 
 ## Credits
 
-All music by <a href="https://vincerubinetti.bandcamp.com/album/the-music-of-3blue1brown>Vincent Rubinetti</a>. If you watch the edu-tainment channel <a href="https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw">3Blue1Brown</a> on YouTube, you might have recognized it. And if you don't watch 3B1B, consider this your recommendation to watch <a href="https://www.youtube.com/watch?v=b7FxPsqfkOY">some of the</a> <a href="https://www.youtube.com/watch?v=spUNpyF58BY">best videos</a> <a href="https://www.youtube.com/watch?v=OkmNXy7er84">on math</a> <a href="https://www.youtube.com/watch?v=XFDM1ip5HdU">on the Internet</a>!
+All music by <a href="https://vincerubinetti.bandcamp.com/album/the-music-of-3blue1brown">Vincent Rubinetti</a>. If you watch the edu-tainment channel <a href="https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw">3Blue1Brown</a> on YouTube, you might have recognized it. And if you don't watch 3B1B, consider this your recommendation to watch <a href="https://www.youtube.com/watch?v=b7FxPsqfkOY">some of the</a> <a href="https://www.youtube.com/watch?v=spUNpyF58BY">best videos</a> <a href="https://www.youtube.com/watch?v=OkmNXy7er84">on math</a> <a href="https://www.youtube.com/watch?v=XFDM1ip5HdU">on the Internet</a>!
 
 - "Zeta"
 - "Heartbeat"
