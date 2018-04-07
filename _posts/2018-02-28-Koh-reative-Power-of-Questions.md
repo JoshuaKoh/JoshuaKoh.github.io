@@ -26,8 +26,8 @@ This recording is about what I think is the best way to use questions to teach. 
 
 Music used in this recording:
 
-- "A Closing Statement" by [Dexter Britain](www.dexterbritain.com)
-- "Sunrise in F-Major" by [dep](www.dep.fm)
+- "A Closing Statement" by [Dexter Britain](http://www.dexterbritain.com)
+- "Sunrise in F-Major" by [dep](http://www.dep.fm)
 
 ## Text Notes
 
