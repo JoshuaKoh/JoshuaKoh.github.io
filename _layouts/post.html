@@ -15,6 +15,10 @@
                             {% include date.html date=page.date %}
                         </time>
                     {% endif %}
+                    {% if page.length %}
+                        <svg id="clock" class="icon-clock"><use xlink:href="#icon-clock"></use></svg>
+                        <span>{{ page.length }}</span>
+                    {% endif %}
                 </p>
                 <h1 class="post-title" itemprop="name">{{ page.title }}</h1>
                 <p itemprop="description" class="subtitle">{{ page.description }}</p>

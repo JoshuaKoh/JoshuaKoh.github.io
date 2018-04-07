@@ -4,6 +4,7 @@ title: How Do Good Teachers Harness the Power of Questions?
 description: What do good questions look like, and how do we come up with them?
 image: 'http://www.joshuakoh.me/koh-reative-images/socrates.jpg'
 category: 'Koh-reative'
+length: 11m06s
 tags:
 - Koh-reative
 - Lecture
@@ -11,8 +12,8 @@ twitter_text: What do good questions look like, and how do we come up with them?
 introduction: Everyone has known that one stand-out teacher who knew how to ask the best questions. Questions that challenged us fairly. Questions that made us think hard and discover new things just by trying to come up with an answer. How did they do it?
 ---
 
-<a href="http://www.joshuakoh.me/koh-reative-audio/Power%20of%20Questions.mp3"><button type="button button-blue">Download this episode (11m06s)</button></a>
-ftp://koh4theking@ftp.joshuakoh.me/joshuakoh.me/koh-reative-audio/socrates.jpg
+<a href="http://www.joshuakoh.me/koh-reative-audio/Power%20of%20Questions.mp3" class="button button-blue">Listen</a>
+<a href="http://www.joshuakoh.me/koh-reative-audio/Power%20of%20Questions.mp3" class="button button-blue" download="Power-of-Questions-Teacher.mp3">Download</a>
 
 ## Description
 
