@@ -2,7 +2,7 @@
 layout: page
 title: Koh-reative Archive
 description: An archive reference of all Koh-reative Project recordings.
-permalink: /koh-reative/archive
+permalink: /koh-reative/archive/
 ---
 
 | Episode | Title | Length |
