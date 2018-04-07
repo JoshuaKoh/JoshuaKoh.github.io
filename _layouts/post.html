@@ -15,27 +15,16 @@
                             {% include date.html date=page.date %}
                         </time>
                     {% endif %}
-                    <svg id="clock" class="icon-clock"><use xlink:href="#icon-clock"></use></svg>
-                    <span>{{ minutesText }}</span>
                 </p>
                 <h1 class="post-title" itemprop="name">{{ page.title }}</h1>
                 <p itemprop="description" class="subtitle">{{ page.description }}</p>
 
                 {% if page.image %}
-                    <img src="{{ page.image }}" alt="Imagem de capa" class="post-cover">
+                    <img src="{{ page.image }}" alt="No image today!" class="post-cover">
                 {% endif %}
 
                 {{ content }}
             </article>
-
-            <div class="progress-bar" data-minutes="{{ totalMinutes }}">
-                <span class="time-completed"></span>
-                <span class="time-remaining"></span>
-                <div class="bar">
-                    <span class="completed" style="width:0%;"></span>
-                    <span class="remaining" style="width:100%;"></span>
-                </div>
-            </div>
 
             {% include share.html %}
             {% include author.html %}

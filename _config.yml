@@ -7,9 +7,9 @@ url: "http://blog.joshuakoh.me" # the base hostname & protocol for your site
 date_format: "%b %-d, %Y"
 
 # User Settings
-username: Jekflix
-user_description: Some text about you.
-disqus_username: disqus_username
+username: Joshua Koh
+user_description: Data scientist in training at Georgia Tech and daily flesh fighter. ESTJ with feelings, gamer with rhythm, water with lemon.
+disqus_username: koh4theking
 
 # Social Media
 # Remove the item if you don't need it
@@ -36,7 +36,7 @@ links:
   - title: Contact
     url: /contact/
   - title: Koh-reative Project
-    url: /kohreative/
+    url: /koh-reative/
 
 # Exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']

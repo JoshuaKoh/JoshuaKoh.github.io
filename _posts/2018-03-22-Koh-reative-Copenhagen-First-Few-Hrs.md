@@ -3,7 +3,7 @@ layout: post
 title: My First 24 Hours in Copenhagen
 description: The epic retelling of my very first adventure studying abroad in Denmark
 image: http://www.joshuakoh.me/koh-reative-images/signalhuset.jpg
-category: 'blog'
+category: 'Koh-reative'
 tags:
 - Koh-reative
 - Story
@@ -12,7 +12,7 @@ twitter_text: An audio drama retelling of my the adventure of first 24 hours abr
 introduction: An audio drama retelling of my the adventure of first 24 hours abroad, complete with sound effects and music!
 ---
 
-<a href="http://www.joshuakoh.me/koh-reative-audio/Copenhagen%2C%20First%2024%20Hrs.mp3"><button>Download this episode (18m23s)</button></a>
+<a href="http://www.joshuakoh.me/koh-reative-audio/Copenhagen%2C%20First%2024%20Hrs.mp3"><button type="button">Download this episode (18m23s)</button></a>
 
 ## Description
 
