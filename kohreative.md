@@ -5,7 +5,7 @@ description: An overview of the Koh-reative Project.
 permalink: /koh-reative/
 ---
 
-<a href="http://blog.joshuakoh.me/koh-reative/archive"><button class="button button-blue">Go to the episode archive</button></a>
+<a href="http://blog.joshuakoh.me/koh-reative/archive/"><button class="button button-blue">Go to the episode archive</button></a>
 
 
 ## About Koh-reative
