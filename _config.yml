@@ -35,8 +35,10 @@ links:
     url: /about/
   - title: Contact
     url: /contact/
-  - title: Koh-reative Project
+  - title: What is Koh-reative?
     url: /koh-reative/
+  - title: Koh-reative Archive
+    url: /koh-reative/archive/
 
 # Exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
