@@ -12,8 +12,7 @@ twitter_text: What do good questions look like, and how do we come up with them?
 introduction: Everyone has known that one stand-out teacher who knew how to ask the best questions. Questions that challenged us fairly. Questions that made us think hard and discover new things just by trying to come up with an answer. How did they do it?
 ---
 
-<a href="http://www.joshuakoh.me/koh-reative-audio/Power%20of%20Questions.mp3"><button class="button button-blue">Listen</button></a>
-<a href="http://www.joshuakoh.me/koh-reative-audio/Power%20of%20Questions.mp3" download="Power-of-Questions-Teacher.mp3"><button class="button button-blue">Download</button></a>
+<a href="http://www.joshuakoh.me/koh-reative-audio/Power%20of%20Questions.mp3"><button class="button button-blue">Click to listen, right click to download</button></a>
 
 ## Description
 
