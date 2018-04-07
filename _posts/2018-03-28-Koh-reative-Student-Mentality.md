@@ -11,7 +11,7 @@ twitter_text: Let's talk about a perspective can help maximize your learning as 
 introduction: I've talked about a good perspective to take as a teacher. Now, what perspective can help maximize your learning as a student?
 ---
 
-<a href="http://www.joshuakoh.me/koh-reative-audio/Student%20Mentality.mp3"><button type="button">Download this episode (14m07s)</button></a>
+<a href="http://www.joshuakoh.me/koh-reative-audio/Student%20Mentality.mp3"><button type="button button-blue">Download this episode (14m07s)</button></a>
 
 <a href="http://blog.joshuakoh.me/Koh-reative-Power-of-Questions">Part 1 of this two-part series</a>, about the Power of Questions for teachers.
 
