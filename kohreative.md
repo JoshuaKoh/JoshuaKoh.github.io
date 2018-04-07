@@ -1,11 +1,12 @@
 ---
-layout:     page
-title:      Koh-reative
-permalink:  /koh-reative/
-summary:    koh-reative, podcast, audio, project
+layout: page
+title: Koh-reative Project
+description: An overview of the Koh-reative Project.
+permalink: /koh-reative/
 ---
 
-<a href="http://blog.joshuakoh.me/koh-reative/archive" class="button button-blue button-big">Go to the episode archive</a>
+<a href="http://blog.joshuakoh.me/koh-reative/archive"><button>Go to the episode archive</button></a>
+
 
 ## About Koh-reative
 
@@ -34,7 +35,5 @@ I'm extremely interested in getting feedback on what I make. What am I doing wel
 I have a number of contact channels available above, and you can always reach out to me in person as well. Please let me know what you think!
 
 --- 
-
-I'll always post whatever notes I used to produce the recording here on the site, below the audio. All of my text content and recordings are protected by Creative Commons, and you can see my terms [here](http://blog.joshuakoh.me/creative-commons/).
 
 Thanks for listening!

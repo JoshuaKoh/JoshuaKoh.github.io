@@ -1,15 +1,24 @@
 ---
-layout:     post
-title:      Story Time - Copenhagen, The First Hours [Koh-reative]
-date:       2018-03-22 07:55:00
-summary:    The epic retelling of my very first goofy adventures studying abroad in Copenhagen, Denmark.
+layout: post
+title: My First 24 Hours in Copenhagen
+description: The epic retelling of my very first adventure studying abroad in Denmark
+image: http://www.joshuakoh.me/koh-reative-images/signalhuset.jpg
+category: 'blog'
+tags:
+- Koh-reative
+- Story
+- Travel
+twitter_text: An audio drama retelling of my the adventure of first 24 hours abroad!
+introduction: An audio drama retelling of my the adventure of first 24 hours abroad, complete with sound effects and music!
 ---
 
-<a href="http://www.joshuakoh.me/koh-reative-audio/03%20Copenhagen%2C%20First%2024%20Hrs.mp3" class="button button-blue button-big">Download this episode (18m23s)</a>
+<a href="http://www.joshuakoh.me/koh-reative-audio/Copenhagen%2C%20First%2024%20Hrs.mp3"><button>Download this episode (18m23s)</button></a>
 
 ## Description
 
-In the spring of 2016, I studied abroad as an exchange student in Copenhagen, Denmark, a land full of bicycles and [happy people](https://www.today.com/health/why-denmark-considered-one-happiest-places-world-t117431). I had many adventures there, and I enjoy reminiscing about them. Today, I'll talk about the wacky things that happened in just the first few hours of my arrival.
+In the spring of 2016, I studied abroad as an exchange student in Copenhagen, Denmark, a land full of bicycles and [happy people](https://www.today.com/health/why-denmark-considered-one-happiest-places-world-t117431). I had many adventures there, but in this recording, I'll *just* talk about the amazing things that happened on my very first day.
+
+The picture above is two views of the apartment where I satayed. You can see the river on the left, and the entranceway columns on the right.
 
 I'm particularly proud of how this one turned out from a production standpoint. The music, sound effects, and timing are all really fun, so I hope you enjoy!!
 

@@ -1,11 +1,17 @@
 ---
-layout:     post
-title:      Fortnite's Guided Missile [Koh-reative]
-date:       2018-04-03 08:00:00
-summary:    The most recent patch added a controversial and powerful weapon to the game. But do you realize how good and healthy for the game it actually is?
+layout: post
+title: How is Fortnite's Guided Missile Good for Game Health?
+description: Killing bad play patterns with the power of fun
+image: http://www.joshuakoh.me/koh-reative-images/fortnite-guided-missile.jpg
+category: 'blog'
+tags:
+- Koh-reative
+- Gaming
+twitter_text: Do you realize just how healthy this controversial weapon is for the game?
+introduction: The most recent patch added a controversial and powerful weapon to the game. But do you realize how good and healthy for the game it actually is?
 ---
 
-<a href="http://www.joshuakoh.me/koh-reative-audio/05%20Fortnite%20Guided%20Missile.mp3" class="button button-blue button-big">Download this episode (5m57s)</a>
+<a href="http://www.joshuakoh.me/koh-reative-audio/Fortnite%20Guided%20Missile.mp3"><button>Download this episode (5m57s)</button></a>
 
 ## Description
 

@@ -1,13 +1,19 @@
 ---
-layout:     post
-title:      The Student Mentality [Koh-reative]
-date:       2018-03-28 16:47:00
-summary:    I've talked about a good perspective to take as a teacher. Now, what perspective can help maximize your learning as a student?
+layout: post
+title: How Do Good Students Harness the Power of Questions?
+description: For every good teacher, an equally willing student
+image: http://www.joshuakoh.me/koh-reative-images/sakamoto.jpg
+category: 'blog'
+tags:
+- Koh-reative
+- Lecture
+twitter_text: Let's talk about a perspective can help maximize your learning as a student.
+introduction: I've talked about a good perspective to take as a teacher. Now, what perspective can help maximize your learning as a student?
 ---
 
-<a href="http://www.joshuakoh.me/koh-reative-audio/04%20Student%20Mentality.mp3" class="button button-blue button-big">Download this episode (14m07s)</a>
+<a href="http://www.joshuakoh.me/koh-reative-audio/Student%20Mentality.mp3"><button>Download this episode (14m07s)</button></a>
 
-<a href="http://blog.joshuakoh.me/2018/02/28/Koh-reative-Socratic-Teacher">Part 1 of this two-part series</a>, about the Socratic method for teachers.
+<a href="http://blog.joshuakoh.me/2018/02/28/Koh-reative-Power-of-Questions">Part 1 of this two-part series</a>, about the Power of Questions for teachers.
 
 ## Description
 
