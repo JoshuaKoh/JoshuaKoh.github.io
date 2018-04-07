@@ -1,5 +1,5 @@
 # Site Settings
-title: Joshua Koh
+title: Joshua's Website
 email: joshua@kohfamily.com
 description: Joshua's personal space for crazy ideas and adventures.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -13,9 +13,10 @@ disqus_username: koh4theking
 
 # Social Media
 # Remove the item if you don't need it
-github_username: joshuakoh
 twitter_username: jkoh33
+facebook_username: koh4theking
 linkedin_username: joshuatkoh
+github_username: joshuakoh
 
 # Build settings
 markdown: kramdown
