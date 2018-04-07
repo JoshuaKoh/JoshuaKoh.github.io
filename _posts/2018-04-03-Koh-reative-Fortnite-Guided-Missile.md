@@ -12,7 +12,7 @@ twitter_text: Do you realize just how healthy this controversial weapon is for t
 introduction: The most recent patch added a controversial and powerful weapon to the game. But do you realize how good and healthy for the game it actually is?
 ---
 
-<a href="http://www.joshuakoh.me/koh-reative-audio/Fortnite%20Guided%20Missile.mp3" class="button button-blue">Click to listen, right click to download</a>
+<a href="http://www.joshuakoh.me/koh-reative-audio/Fortnite%20Guided%20Missile.mp3"><button class="button button-blue">Click to listen, right click to download</button></a>
 
 ## Description
 

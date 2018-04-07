@@ -13,7 +13,7 @@ twitter_text: An audio drama retelling of my the adventure of first 24 hours abr
 introduction: An audio drama retelling of my the adventure of first 24 hours abroad, complete with sound effects and music!
 ---
 
-<a href="http://www.joshuakoh.me/koh-reative-audio/Copenhagen%2C%20First%2024%20Hrs.mp3" class="button button-blue">Click to listen, right click to download</a>
+<a href="http://www.joshuakoh.me/koh-reative-audio/Copenhagen%2C%20First%2024%20Hrs.mp3"><button class="button button-blue">Click to listen, right click to download</button></a>
 
 ## Description
 
