@@ -111,8 +111,8 @@ button:-moz-focusring, [type="button"]:-moz-focusring,[type="reset"]:-moz-focusr
 }
 .button-blue {
   color: white;
-  background-color: $blue;
-  border-radius: $border-radius;
+  background-color: #0076df;
+  border-radius: 3px;
   transition-duration: .1s;
   transition-timing-function: ease-out;
   transition-property: box-shadow, background-color;
@@ -126,7 +126,7 @@ button:-moz-focusring, [type="button"]:-moz-focusring,[type="reset"]:-moz-focusr
 }
 .button-blue:focus {
   outline: none;
-  box-shadow: 0 0 0 2px rgba(white, .5), 0 0 1px 4px rgba($blue, .5);
+  box-shadow: 0 0 0 2px rgba(white, .5), 0 0 1px 4px rgba(0,118,223,.5);
 }
 .button-blue:disabled,
 .button-blue.is-disabled {
