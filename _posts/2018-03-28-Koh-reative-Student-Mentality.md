@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Do Good Students Harness the Power of Questions?
-description: For every good teacher, an equally willing student
+description: For every good teacher, an equally willing student.
 image: http://www.joshuakoh.me/koh-reative-images/sakamoto.jpg
 category: 'Koh-reative'
 length: 14m07s

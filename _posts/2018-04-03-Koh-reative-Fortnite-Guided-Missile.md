@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How is Fortnite's Guided Missile Good for Game Health?
-description: Killing bad play patterns with the power of fun
+description: Killing bad play patterns with the power of fun.
 image: http://www.joshuakoh.me/koh-reative-images/fortnite-guided-missile.jpg
 category: 'Koh-reative'
 tags:

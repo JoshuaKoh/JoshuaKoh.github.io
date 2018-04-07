@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My First 24 Hours in Copenhagen
-description: The epic retelling of my very first adventure studying abroad in Denmark
+description: The epic retelling of my very first adventure studying abroad in Denmark.
 image: http://www.joshuakoh.me/koh-reative-images/signalhuset.jpg
 category: 'Koh-reative'
 length: 18m23s
