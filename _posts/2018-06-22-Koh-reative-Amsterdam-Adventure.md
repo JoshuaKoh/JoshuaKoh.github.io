@@ -13,7 +13,7 @@ twitter_text: Story time, of my visit to Amsterdam.
 introduction: Story time, of my recent visit to Amsterdam.
 ---
 
-<a href="http://www.joshuakoh.me/koh-reative-audio/Amsterdam%Adventure.mp3"><button class="button button-blue">Click to listen, right click to download</button></a>
+<a href="http://www.joshuakoh.me/koh-reative-audio/Amsterdam%20Adventure.mp3"><button class="button button-blue">Click to listen, right click to download</button></a>
 
 ## Description
 
