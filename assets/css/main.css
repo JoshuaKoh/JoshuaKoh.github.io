@@ -1609,3 +1609,8 @@ footer ul a:hover{
 .main-page footer p{
     color:#fff
 }
+
+img + em { 
+    display:block; 
+    text-align:center;
+}

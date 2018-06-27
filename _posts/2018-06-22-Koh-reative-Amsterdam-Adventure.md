@@ -17,11 +17,11 @@ introduction: Story time, of my recent visit to Amsterdam.
 
 ## Description
 
-I took a summer trip to Dubai in the UAE, in part to celebrate my college graduation. On the way, I explored the city of Amsterdam during a 6-hour layover. Here's what happened on that adventure.
+I took a summer trip to Dubai in the UAE, in part to celebrate my college graduation, in part to help some friends who live there to move homes. On the way, I explored the city of Amsterdam during a 6-hour layover. Here's what happened on that adventure.
 
 ## Credits
 
-Once again, almost all music is from the [Bakemonogatari OST](https://www.amazon.com/BAKEMONOGATARI-ONGAKU-ZENSHU-SONGS-SOUNDTRACKS/dp/B005V3ARAY) by MONACA and by the genius [Satoru Kosaki](https://en.wikipedia.org/wiki/Satoru_K%C5%8Dsaki). It just fits so well, since it is literally music designed to be talked over, and I'll probably use it for every story time. Music used in this recording, in order of appearance:
+Once again, almost all music is from the [Bakemonogatari OST](https://www.amazon.com/BAKEMONOGATARI-ONGAKU-ZENSHU-SONGS-SOUNDTRACKS/dp/B005V3ARAY) by MONACA and by the genius [Satoru Kosaki](https://en.wikipedia.org/wiki/Satoru_K%C5%8Dsaki). It just fits so well, since it is literally music composed with the intent that it would be over-dubbed with narrative speech.  I'll probably use it for every story time. Music used in this recording, in order of appearance:
 
 - "In Motion+", by FELT
 - "Sanpo"
@@ -48,12 +48,14 @@ I even knew how to get off at the right stop, even though there were no signs on
 Amsterdam Centraal is aptly named, for it lies in the very center of the city, within walking distance of most things. For that reason, if you’re planning a day trip, I’d recommend nothing more than a single train ticket to get to Centraal and a pair of legs. You can easily get to the canal tours, the red light district, the scenic Dam square, and the giant library, all of which we’ll talk about.
 
 ![My first view of the city](http://www.joshuakoh.me/koh-reative-images/amsterdam.jpg)
+*My first view of the city*
 
 As for me, I shot out of the Amsterdam Centraal station, ready to take in the city for the first time. And three things immediately struck me, one negative, one positive, and one neutral. Negatively, everyone looked and smelled like they had been baking a little too long, if you know what I mean. They looked like they’d been cutting the grass, if you know what I’m saying. They smelled like they — look, one of Amsterdam’s “features” is the legalization of that sweet Mary Jane. And as far as my nose was concerned, everyone was participating. By their faces, most people looked like they had been smoked today, smoked before, or really wanted to try. Even if it wasn’t marijuana, there were cigarettes everywhere, more than in Copenhagen.
 
 And that’s the second, positive thing. I experienced a wash of sensations I hadn’t experience since I left Copenhagen. Bikes, everywhere. The smell of quality cigarette smoke. The smell of a European ocean breeze… which you honestly just have to smell yourself and you’ll know what I’m talking about. Hole in the wall stores lining modern and traditional buildings. Preserved nature saved in small chunks around the city: canals, tree groves, pigeons, all slotted between the architecture. Teenagers and college age students just standing around laughing like they aren’t worried about anything in life. And fun fact: they aren’t. Felt good to “be back”.
 
 ![I love cities that run on bikes](http://www.joshuakoh.me/koh-reative-images/amsterdam-bikes.jpg)
+*I love cities that run on bikes*
 
 And lastly, the neutral thing. I had to pee. I looked around the busy square with criss-crossing traffic: cars, bikes, pedestrians, and street cars all in surprising disarray. Not many traffic signals or well-painted indicators. Even though it looked like Copehnagen, it honestly felt more like Santo Domingo. Anyway, there were not toilets to be seen, so I retreated back into the train station and found the restrooms. Except, they were blocked! With turnstiles! That only accepted change, in euros! One dollar to use the bathroom! That wasn’t gonna happen, and I didn’t have coins either. Meh, I guess I didn’t have to go that bad. So I decided to hold it and begin my wandering, but I’d keep my eyes peeled for a bathroom. Good plan! HEH HEH
 
@@ -70,8 +72,10 @@ In case you’re not familiar, red light district just means it’s the place fo
 …there was a place called the Bake Shop, selling bake in baked goods, which I thought was pretty funny. 
 
 ![There, you've seen the Red Light District. What's next?](http://www.joshuakoh.me/koh-reative-images/amsterdam-redlight.jpg)
+*There, you've seen the Red Light District. What's next?*
 
 ![The Bake Shop](http://www.joshuakoh.me/koh-reative-images/amsterdam-bakeshop.jpg)
+*The Bake Shop*
 
 ---
 
@@ -93,10 +97,12 @@ Anyway, two missions accomplished. Found the library and found a bathroom. I was
 This was a tall library. Not very wide, but seven stories tall. Six of them had books and the seventh was a cafe. Most of the books were in Dutch, so I didn’t have much of a chance (or a reason) to look through them. It was a nice environment though. There was lots of open desk space, and most of the bookshelves were illuminated with lights running vertically along the shelves. It was like an IKEA that you were supposed to stay at and study or read in. 
 
 ![Truly a tall library](http://www.joshuakoh.me/koh-reative-images/amsterdam-stairs.jpg)
+*Truly a tall library*
 
 I still had over an hour before I needed to return to the train station and the airport, and I didn’t have anything else I particularly wanted to see (or smell) in Amsterdam. So, I grabbed a desk at the sixth floor and typed this script. You can see a meta picture of me writing it on my website. It’s now 11:03am, so I’ll maybe find a place to grab a quick bite to eat and then head back to the airport. 
 
 ![Here is me, breaking meta to tell you in second person to look at this meta picture as referenced in a meta-sense in the audio.](http://www.joshuakoh.me/koh-reative-images/amsterdam-library.jpg)
+*Here is me, breaking meta to tell you in second person to look at this meta picture as referenced in a meta-sense in the audio.*
 
 ---
 
