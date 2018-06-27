@@ -10,4 +10,6 @@ permalink: /koh-reative/archive/
 | 1 | [How Do Good Teachers Harness the Power of Questions?](http://blog.joshuakoh.me/Koh-reative-Power-of-Questions) | 11:06 |
 | 2 | [My First 24 Hours in Copenhagen](http://blog.joshuakoh.me/Koh-reative-Copenhagen-First-Few-Hrs) | 18:23 |
 | 3 | [How Do Good Students Harness the Power of Questions?](http://blog.joshuakoh.me/Koh-reative-Student-Mentality) | 14:07 |
-| 4 | [How is Fortnite's Guided Missile Good for Game Health?](http://blog.joshuakoh.me/ÅKoh-reative-Fortnite-Guided-Missile) | 5:57 |
+| 4 | [How is Fortnite's Guided Missile Good for Game Health?](http://blog.joshuakoh.me/Koh-reative-Fortnite-Guided-Missile) | 5:57 |
+| 5 | [Book Review: Ask More](http://blog.joshuakoh.me/Koh-reative-Book-Review-Ask-More) | 7:29 |
+| 6 | [Amsterdam Adventure](http://blog.joshuakoh.me/Koh-reative-Amsterdam-Adventure) | 15:01 |
