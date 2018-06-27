@@ -2,7 +2,7 @@
 layout: post
 title: Amsterdam Adventure
 description: On my way to Dubai this summer, I visited Amsterdam. Here's what happened.
-image: http://www.joshuakoh.me/koh-reative-images/amsterdam.jpg
+image: http://www.joshuakoh.me/koh-reative-images/amsterdam-title.jpg
 category: 'Koh-reative'
 length: 15m01s
 tags:
