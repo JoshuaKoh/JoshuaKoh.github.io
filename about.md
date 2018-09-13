@@ -9,7 +9,11 @@ permalink: /about/
 
 ## About
 
-Data scientist in training at Georgia Tech and daily flesh fighter. ESTJ with feelings, gamer with rhythm, water with lemon.
+<a href="https://www.linkedin.com/in/joshuatkoh"><button class="button button-blue">See my LinkedIn</button></a>
+
+...or connect with me on social media using the icon buttons below!
+
+Hello world! I'm a Google Cloud consultant-in-training at Google, former data science trained at Georgia Tech, and daily flesh fighter. ESTJ with feelings, gamer with rhythm, water with lemon.
 
 I like board game-athons, hackathons, Python, pythons, pi, and pie.
 
