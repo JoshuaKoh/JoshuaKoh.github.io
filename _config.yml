@@ -1,20 +1,19 @@
 # Site Settings
-title: Joshua's Website
+title: Josh's Website
 email: joshua@kohfamily.com
-description: Joshua's personal space for crazy ideas and adventures.
+description: Joshua's crazy ideas and adventures.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://blog.joshuakoh.me" # the base hostname & protocol for your site
+url: "http://www.joshuakoh.me" # the base hostname & protocol for your site
 date_format: "%b %-d, %Y"
 
 # User Settings
 username: Joshua Koh
-user_description: Data scientist in training at Georgia Tech and daily flesh fighter. ESTJ with feelings, gamer with rhythm, water with lemon.
+user_description: Making sunny days out of Clouds and fighting my flesh daily. My best friends are pianos, board games, books, and Charissa.
 disqus_username: koh4theking
 
 # Social Media
 # Remove the item if you don't need it
-twitter_username: jkoh33
-facebook_username: koh4theking
+twitter_username: koh4theking
 linkedin_username: joshuatkoh
 github_username: joshuakoh
 
