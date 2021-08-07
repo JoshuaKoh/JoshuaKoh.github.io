@@ -3,7 +3,7 @@ title: Josh's Website
 email: joshua@kohfamily.com
 description: Joshua's crazy ideas and adventures.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.joshuakoh.me" # the base hostname & protocol for your site
+url: "https://joshuakoh.me" # the base hostname & protocol for your site
 date_format: "%b %-d, %Y"
 
 # User Settings
