@@ -1,17 +1,23 @@
 ---
 layout: compress
 ---
+<!doctype html>
+<html class="no-js" lang="{% if site.language == nil %}en{% else %}{{ site.language }}{% endif %}">
+<head>
+	{% include _head.html %}
+</head>
+<body id="top-of-page" class="{{ layout.format }}">
+	{% unless page.skip_boilerplate %}
+	{% include _navigation.html %}
+	{% endunless %}
 
-<!DOCTYPE html>
-<html lang="en" itemscope itemtype="http://schema.org/WebPage">
-    {% include head.html %}
-    <body class="has-push-menu">
-        {% include svg-icons.html %}
-        {% include header.html %}
-            <section class="content">
-                {{ content }}
-            </section>
-        {% include footer.html %}
-    </body>
+	{% include _masthead.html %}
+	{{ content }}
+
+	{% unless page.skip_boilerplate %}
+	{% include _footer.html %}
+	{% endunless %}
+
+	{% include _footer_scripts.html %}
+</body>
 </html>
-
