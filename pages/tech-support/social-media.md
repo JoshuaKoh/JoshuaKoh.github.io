@@ -1,16 +1,17 @@
 ---
 layout              : page
 title               : "Social Media"
-meta_title          : "Social media has benefits and dangers. What should you know before you or a family member dive into the digital social network?"
+meta_title          : "Social Media | Tech Support"
 subheadline         : "Tech Support"
-teaser              : "Social media has benefits and dangers. What should you know before you or a family member dive into the digital social network?"
+teaser              : ""
 permalink           : "/tech-support/social-media/"
 ---
 
-## All posts
+{% include alert success='**Tip!** Try using `ctrl + F` on Windows or `cmd + F` on Mac 
+to find a particular technology.' %}
 
-{% include list-posts entries='1000' offset='0' tag='social-media' sortby='title' %}
+If you can't find what you're looking for, 
+[let me know](https://docs.google.com/forms/d/e/1FAIpQLSdhNlDfs5vmFZtDhH4eGvkOUnWXz-I4OpOPBj4gARDArGNTKA/viewform)
+what I should write about next.
 
-## TODO
-
-todo
+{% include list-collection collection='social_media' %}

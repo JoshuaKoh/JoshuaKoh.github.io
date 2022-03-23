@@ -15,6 +15,15 @@ gist:
 
 logo: "logo.png"
 
+collections:
+  social_media:
+    output: true
+    sort_by: name
+    permalink: /tech-support/:path/
+  entertainment:
+    output: true
+    sort_by: name
+    permalink: /tech-support/:path/
 
 sass:
   # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style

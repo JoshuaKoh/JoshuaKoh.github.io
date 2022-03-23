@@ -57,18 +57,25 @@
 
 .alert-box {
   font-family: $font-family-sans-serif;
-  text-shadow: 0px 1px 1px rgba(0,0,0,0.9);
 }
   .alert-box p {
     margin-bottom: 0;
   }
   .alert-box a {
-    text-shadow: 1px 1px 0px rgba(0, 0, 0, 1);
-    color: #fff;
-    border-bottom: 1px dotted #fff;
+    color: $ci-1;
+    border-bottom: 1px dotted $ci-2;
   }
   .alert-box a:hover {
-    border-bottom: 1px solid #fff;
+    border-bottom: 1px solid $ci-2;
+  }
+  .alert-box.alert {
+    color: #9f2020;
+  }
+  .alert-box.info {
+    color: #336eb5;
+  }
+  .alert-box.success {
+    color: #4a6d3d;
   }
   .alert-box.terminal {
     background: $grey-12; 
@@ -78,15 +85,17 @@
   }
   .alert-box.terminal::before {
     content: "$ ";
-    color: $ci-6;
+    color: #4AF626;
     float: left;
-    margin: .25em .5em 0 0;
+    margin: 0 .5em 0 0;
   }
   .alert-box.text {
-    background-color: $grey-2;
-    text-shadow: 0px 0px 0px rgba(0,0,0,0.9);
+    background-color: $grey-1;
     border-color: scale-color($grey-2, $lightness: -14%);
-    color: $grey-12;
+    color: $grey-13;
+  }
+  .alert-box.warning {
+    color: #983220;
   }
 
 

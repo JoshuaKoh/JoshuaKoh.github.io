@@ -271,12 +271,12 @@ This include lets you easily display an alert. To use the include no `.html` end
 {% include alert text='Just a note!' %}{% endraw %}
 ~~~
 
-{% include alert warning='This is a warning.' %}
-{% include alert info='An info box.' %}
-{% include alert success='Yeah, you made it!' %}
-{% include alert alert='Danger!' %}
+{% include alert warning='This is a warning. [test link](http://google.com)' %}
+{% include alert info='An info box. [test link](http://google.com)' %}
+{% include alert success='Yeah, you made it! [test link](http://google.com)' %}
+{% include alert alert='Danger! [test link](http://google.com)' %}
 {% include alert terminal='jekyll -serve' %}
-{% include alert text='Just a note!' %}
+{% include alert text='Just a note! [test link](http://google.com)' %}
 
 You can even use `<html>`-tags inside the alert. Beware: Use " and ' properly.
 

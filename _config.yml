@@ -40,6 +40,16 @@ improve_content: https://github.com/JoshuaKoh/JoshuaKoh.github.io/edit/gh-pages
 #
 urlimg: 'https://joshuakoh.me/assets/'
 
+collections:
+  social_media:
+    output: true
+    sort_by: name
+    permalink: /tech-support/:path/
+  entertainment:
+    output: true
+    sort_by: name
+    permalink: /tech-support/:path/
+
 
 # Logo size is 600x80 pixels
 logo: "logo.png"

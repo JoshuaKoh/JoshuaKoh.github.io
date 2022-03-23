@@ -24,13 +24,11 @@
 
 {% assign category = include.category %}
 {% assign tag = include.tag %}
-
 <ul class="side-nav">
 
   {% if category == NULL and tag == NULL %}
 
-    {% assign posts = site.posts | sort: include.sortby %}
-    {% for post in posts limit:include.entries offset:include.offset %}
+    {% for post in site.posts limit:include.entries offset:include.offset %}
       <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{% if post.subheadline %}{{ post.subheadline }} &middot; {% endif %}<strong>{{ post.title }}</strong></a></li>
     {% endfor %}
       <li class="text-right"><a href="{{ site.url }}{{ site.baseurl }}/archive/"><strong>{{ site.data.language.more }}</strong></a></li>
@@ -38,8 +36,7 @@
 
   {% elsif category %}
 
-    {% assign posts = site.categories.[category].posts | sort: include.sortby %}
-    {% for post in posts limit:include.entries offset:include.offset %}
+    {% for post in site.categories.[category] limit:include.entries offset:include.offset %}
       <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{% if post.subheadline %}{{ post.subheadline }} &middot; {% endif %}<strong>{{ post.title }}</strong></a></li>
     {% endfor %}
       <li class="text-right"><a href="{{ site.url }}{{ site.baseurl }}/archive/"><strong>{{ site.data.language.more }}</strong></a></li>
@@ -47,8 +44,7 @@
 
   {% elsif tag %}
 
-    {% assign posts = site.tags.[tag].posts | sort: include.sortby %}
-    {% for post in posts limit:include.entries %}
+    {% for post in site.tags.[tag] limit:include.entries %}
       <li><a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{% if post.subheadline %}{{ post.subheadline }} &middot; {% endif %}<strong>{{ post.title }}</strong></a></li>
     {% endfor %}
 
