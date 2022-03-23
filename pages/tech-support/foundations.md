@@ -4,7 +4,7 @@ title               : "Foundations"
 meta_title          : "No one is unbiased. You should know where I'm coming from and keep me honest to be consistent." 
 subheadline         : "Tech Support" 
 teaser              : "No one is unbiased. You should know where I'm coming from and keep me honest to be consistent."
-permalink           : "/tech/foundations/"
+permalink           : "/tech-support/foundations/"
 ---
 
 ## Table of Contents
@@ -46,7 +46,7 @@ technology is also relevant. If you don't agree with my presuppositions, you
 shouldn't value my recommendations.
 
 
-## 1. Using digital technologies is an unavoidably moral act. {unavoidably-moral}
+## 1. Using digital technologies is an unavoidably moral act. {#unavoidably-moral}
 
 God gives regenerate Bible believers one greatest commandment, one ultimate goal
 -- to love and glorify God, really two sides of one coin (Isaiah 43:6-7; Ezekiel
@@ -74,7 +74,7 @@ If the stakes of our use of digital technology are as high as pleasing or
 offending the almighty God, we should think carefully before and while we use
 it.
 
-## 2. Digital techologies are tools to steward. {tool-to-steward}
+## 2. Digital techologies are tools to steward. {#tool-to-steward}
 
 Everything we possess is given to us as gifts from God for the purpose of
 stewarding and investing for His purposes. Further, He expects us to produce a
@@ -106,7 +106,7 @@ first rev. We should always use caution and thoughtfulness when wielding these
 tools. And before giving them to others, we should make sure they are equipped
 with knowledge to use them well, too.
 
-## 3. Digital technologies are a means, not an end. {means-not-an-end}
+## 3. Digital technologies are a means, not an end. {#means-not-an-end}
 
 Regenerate Bible believers have only one ultimate goal, which we might call an
 end -- to love and glorify God, really two sides of one coin (Isaiah 43:6-7;
@@ -134,7 +134,7 @@ Beware letting the arrow of your fascination hit your phone and disappear there.
 Let the arrow hit that glossy screen and reflect upward to delighting in,
 praying to, and walking with God.
 
-## 4. It's okay to be different than everyone else. {ok-to-be-different}
+## 4. It's okay to be different than everyone else. {#ok-to-be-different}
 
 Just because the world says we *must* do things one way does not mean that we
 have to do things that way. You don't have to be like the world. It is okay to

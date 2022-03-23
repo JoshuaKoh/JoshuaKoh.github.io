@@ -7,15 +7,15 @@
   side: left
 
 - title: "Tech Support"
-  url: "/tech/"
+  url: "/tech-support/"
   side: left
   dropdown: 
   - title: "Foundations"
-    url: "/tech/foundations"
+    url: "/tech-support/foundations"
   - title: "Social Media"
-    url: "/tech/social-media"
+    url: "/tech-support/social-media"
   - title: "Entertainment"
-    url: "/tech/entertainment"  
+    url: "/tech-support/entertainment"  
 
 - title: "D&D"
   url: "https://dnd.joshuakoh.me"

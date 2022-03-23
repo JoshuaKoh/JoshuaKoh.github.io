@@ -7,24 +7,24 @@ header:
 title: Tech Support Home
 widget1:
   title: "Foundations"
-  url: '/tech/foundations/'
+  url: '/tech-support/foundations/'
   image: widget-1-302x182.jpg
   text: "Before you take my opinion, you should know my biases and presuppositions. Everyone has some, so the best thing you can do is know mine and hold me accountable to be consistent."
 widget2:
   title: "Social Media"
   image: widget-1-302x182.jpg
-  url: '/tech/social-media/'
+  url: '/tech-support/social-media/'
   text: 'If you dread the conversation that begins with, "Hey mom, can I make a Twitter account?" I want to help. Instead of you making an account and using each new technology for weeks, let me tell you the pros, cons, and risks.'
 widget3:
   title: "Entertainment"
-  url: '/tech/entertainment/'
+  url: '/tech-support/entertainment/'
   image: widget-github-303x182.jpg
   text: 'You already know the internet is changing the world. How do we and our families harness this for good and not for ill? I can offer a survey of the benefits and dangers for YouTube, Reddit, and more.'
 callforaction:
   url: https://docs.google.com/forms/d/e/1FAIpQLSdhNlDfs5vmFZtDhH4eGvkOUnWXz-I4OpOPBj4gARDArGNTKA/viewform?usp=sf_link
   text: Let us know what technology to review next.
   style: alert
-permalink: /tech/
+permalink: /tech-support/
 ---
 
 <br/>

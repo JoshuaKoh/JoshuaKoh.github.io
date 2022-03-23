@@ -14,7 +14,7 @@ widget1:
   text: 'Koh-reative description.'
 widget2:
   title: "Tech Support"
-  url: '/tech/'
+  url: '/tech-support/'
   image: widget-tech-support-303x182.jpg
   text: 'Tech Support description.'
 widget3:
