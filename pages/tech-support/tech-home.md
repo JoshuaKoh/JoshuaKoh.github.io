@@ -28,5 +28,5 @@ permalink: /tech-support/
 ---
 
 <br/>
-{% include alert alert='**You can search all past articles using the "Search" option in the top right.**' %}
-
+{% include alert alert='**You can search all past articles using the "Search"
+option in the top right.**' %}

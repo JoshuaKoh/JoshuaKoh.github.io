@@ -13,4 +13,5 @@ header:
 
 ## Overview
 
-I make sunny days out of Clouds and fight my flesh daily. My best friends are pianos, board games, books, and my family.
+I make sunny days out of Clouds and fight my flesh daily. My best friends are
+pianos, board games, books, and my family.

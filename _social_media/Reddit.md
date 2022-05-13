@@ -119,7 +119,7 @@ community with both amateurs and experts making interesting posts and willing to
 help answer questions or celebrate wins.
 
 I've used Reddit to ask and answer questions about Google Cloud Platform (my
-line of professional work) and video games I play. 
+line of professional work) and video games I play.
 
 <figure>
   <img src="{{ site.urlimg }}/tech-support/reddit-post.jpg" alt="Reddit Q&A Post"/>
@@ -168,7 +168,7 @@ attached to the post. You can configure your account settings to initially block
 "nsfw" pictures and videos, but all it takes is one click to dismiss the block.
 In other words, Reddit's content filter is not effective for eliminating
 inappropriate content.
-
+`
 <figure>
   <img src="{{ site.urlimg }}/tech-support/reddit-filter.jpg" alt="Reddit image filter"/>
   <figcaption>This is what the "nsfw" blocker looks like, but if you click the
@@ -184,12 +184,6 @@ subreddit with similar content to the one you just blocked.
 If you aren't logged in, Reddit won't allow you to view "nsfw" content. It
 prompts you to first create an account. This is one inhibitor to accidentally
 seeing inappropriate content, and is the main way I use Reddit.
-
-### Secular language
-
-Names of subreddits.
-
-Commenter quality.
 
 ### Infinite content
 
