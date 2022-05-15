@@ -22,7 +22,7 @@ widget3:
   text: 'You already know the internet is changing the world. How do we and our families harness this for good and not for ill? I can offer a survey of the benefits and dangers for YouTube, Reddit, and more.'
 callforaction:
   url: https://docs.google.com/forms/d/e/1FAIpQLSdhNlDfs5vmFZtDhH4eGvkOUnWXz-I4OpOPBj4gARDArGNTKA/viewform?usp=sf_link
-  text: Let us know what technology to review next.
+  text: Let me know what technology to review next.
   style: alert
 permalink: /tech-support/
 ---
