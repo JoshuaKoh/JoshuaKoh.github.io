@@ -16,6 +16,13 @@ gist:
 logo: "logo.png"
 
 collections:
+  ts_foundations:
+    output: true
+    order: 
+      - presuppositions.md
+      - cognitive-risks.md
+      - privacy-risks.md
+    permalink: /tech-support/foundations/:path/
   social_media:
     output: true
     sort_by: name

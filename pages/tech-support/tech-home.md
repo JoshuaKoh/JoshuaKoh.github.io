@@ -9,7 +9,7 @@ widget1:
   title: "Foundations"
   url: '/tech-support/foundations/'
   image: widget-1-302x182.jpg
-  text: "Before you take my opinion, you should know my biases and presuppositions. Everyone has some, so the best thing you can do is know mine and hold me accountable to be consistent."
+  text: "Before you take my opinion, you should know what I believe about digital technology. Or, these ideas might help you think more deeply and critically about tech in general."
 widget2:
   title: "Social Media"
   image: widget-1-302x182.jpg

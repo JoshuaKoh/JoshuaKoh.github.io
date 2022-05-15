@@ -14,4 +14,4 @@ If you can't find what you're looking for,
 [let me know](https://docs.google.com/forms/d/e/1FAIpQLSdhNlDfs5vmFZtDhH4eGvkOUnWXz-I4OpOPBj4gARDArGNTKA/viewform)
 what I should write about next.
 
-{% include list-collection collection='social_media' %}
+{% include list-collection collection='ts_social_media' %}

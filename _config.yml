@@ -30,7 +30,7 @@ baseurl: ''
 
 # This is for the editing function in _/includes/improve_content
 # Leave it empty if your site is not on GitHub/GitHub Pages
-improve_content: https://github.com/JoshuaKoh/JoshuaKoh.github.io/edit/gh-pages
+improve_content: https://github.com/JoshuaKoh/JoshuaKoh.github.io/
 
 # This URL points directly to the images directory making
 # things easier to link to images in posts and templates. It needs a slash at the end.
@@ -41,11 +41,18 @@ improve_content: https://github.com/JoshuaKoh/JoshuaKoh.github.io/edit/gh-pages
 urlimg: 'https://joshuakoh.me/assets/'
 
 collections:
-  social_media:
+  ts_foundations:
+    output: true
+    order: 
+      - presuppositions.md
+      - cognitive-risks.md
+      - privacy-risks.md
+    permalink: /tech-support/foundations/:path/
+  ts_social_media:
     output: true
     sort_by: name
     permalink: /tech-support/:path/
-  entertainment:
+  ts_entertainment:
     output: true
     sort_by: name
     permalink: /tech-support/:path/
