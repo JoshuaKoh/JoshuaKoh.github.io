@@ -45,6 +45,7 @@ collections:
     output: true
     order: 
       - presuppositions.md
+      - digital-presuppositions.md
       - cognitive-risks.md
       - privacy-risks.md
     permalink: /tech-support/foundations/:path/

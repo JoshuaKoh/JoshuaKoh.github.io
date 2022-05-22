@@ -188,7 +188,8 @@ seeing inappropriate content, and is the main way I use Reddit.
 ### Infinite content
 
 Reddit users risk the foundational dangers of infinite content and infinite
-scrolling. See [here]({{ site.url }}/tech-support/) for my explanation of these dangers for this and many other
+scrolling. See [here]({{ site.url }}/tech-support/) for my explanation of these
+dangers for this and many other
 digital technologies.
 
 ### Internet points
