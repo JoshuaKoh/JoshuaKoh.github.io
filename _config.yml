@@ -48,15 +48,15 @@ collections:
       - digital-presuppositions.md
       - cognitive-risks.md
       - privacy-risks.md
-    permalink: /tech-support/foundations/:path/
+    permalink: /tech-support/foundations/:path
   ts_social_media:
     output: true
     sort_by: name
-    permalink: /tech-support/:path/
+    permalink: /tech-support/:path
   ts_entertainment:
     output: true
     sort_by: name
-    permalink: /tech-support/:path/
+    permalink: /tech-support/:path
 
 
 # Logo size is 600x80 pixels

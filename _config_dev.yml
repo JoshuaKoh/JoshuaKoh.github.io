@@ -20,17 +20,18 @@ collections:
     output: true
     order: 
       - presuppositions.md
+      - digital-presuppositions.md
       - cognitive-risks.md
       - privacy-risks.md
-    permalink: /tech-support/foundations/:path/
+    permalink: /tech-support/foundations/:path
   social_media:
     output: true
     sort_by: name
-    permalink: /tech-support/:path/
+    permalink: /tech-support/:path
   entertainment:
     output: true
     sort_by: name
-    permalink: /tech-support/:path/
+    permalink: /tech-support/:path
 
 sass:
   # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style

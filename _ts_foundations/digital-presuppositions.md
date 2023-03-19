@@ -11,10 +11,10 @@ teaser              : "My worldview informs how I think about digital technology
 
 ## Introduction  {#introduction}
 
-[My worldview]({{ site.url }}/tech-support/presuppositions) affects all areas of
-life, certainly including digital technology. Before you accept any of my
-recommendations, I hope you understand the lens through which I view the
-technologies for which I make recommendations.
+[My worldview]({{ site.url }}/tech-support/foundations/presuppositions) colors
+all areas of my thinking, certainly including about digital technology. Before
+you accept any of my recommendations, I hope you understand the lens through
+which I view the technologies for which I write.
 
 ## 1. Using digital technologies is an unavoidably moral act. {#unavoidably-moral}
 
@@ -65,8 +65,8 @@ technology if you desire to, in any way you desire to, and that everyone else is
 doing the same thing. "If it's on the app store, it's okay to install it." "If
 everyone else is watching it, you can too."
 
-This is wrong. Compare the tools of digital technologies to other tools like
-spatulas, hammers, and chainsaws:
+This is wrong. Digital technologies are tools to manipulate with intention.
+Compare our mindset to analog tools like spatulas, hammers, and chainsaws:
 
 * These tools are designed with specific uses in mind. E.g. a chainsaw is
   designed to cut things mor easily than an axe.
@@ -105,11 +105,12 @@ For example, when I delight in my daughter's good behavior, my fascination and
 my praise ought to be redirected through my daughter up to God. "God, thank you
 that by Your grace, You have allowed and empowered my daughter to do this thing.
 God, You are amazing for creating people who can exercise amazing skills. God,
-if any good comes from my daughter, it comes from You for only You are good."
+if any good comes from my daughter, it comes from You for You are the source of
+all goodness."
 
-The same should be said of our use digital technology. We seem particularly
-prone to make glowing screens the terminus of our delight, black holes that
-absorb all our glorying and fascination within themselves.
+The same ought to be said of our use digital technology. Yet, we seem
+particularly prone to make glowing screens the terminus of our delight, black
+holes that absorb all our glorying and fascination within themselves.
 
 * Rather than let a news headline drive me to prayer, it drives me to an isolated
 fascination.
