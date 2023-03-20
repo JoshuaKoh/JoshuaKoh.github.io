@@ -3,8 +3,6 @@ layout: page-fullwidth
 title: "Privacy"
 subheadline: "Privacy and permissions"
 permalink: "/privacy/"
-header:
-   image_fullwidth: "header_roadmap_3.jpg"
 announcement: "TODO: insert link to Chrome extension."
 
 ---
